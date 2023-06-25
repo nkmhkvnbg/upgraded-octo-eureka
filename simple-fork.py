@@ -1,6 +1,7 @@
 # ##### BEGIN GPL LICENSE BLOCK #####
 #
 #  SCA Tree Generator,  a Blender addon
+
 #  (c) 2013 Michel J. Anders (varkenvarken)
 #
 #  This program is free software; you can redistribute it and/or
